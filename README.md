@@ -12,7 +12,7 @@ control panel).
 </p>
 
 <p align="center">
-    <a href="https://selfdestroying.github.io/glyphs/"><strong>▶ Live demo</strong></a>
+    <a href="https://s31fdev.github.io/glyphs/"><strong>▶ Live demo</strong></a>
 </p>
 
 ## Highlights
@@ -86,7 +86,7 @@ Any static server works — `npx serve`, `python -m http.server`, VS Code's
 Live Server extension, etc. The hosted demo on GitHub Pages works the same
 way, just without the local step:
 
-> https://selfdestroying.github.io/glyphs/
+> https://s31fdev.github.io/glyphs/
 
 ---
 
